@@ -1,0 +1,49 @@
+# Data / datasets
+data/
+dataset/
+datasets/
+images/
+train/
+test/
+validation/
+*.csv
+*.xlsx
+*.xls
+*.npy
+*.npz
+
+# Trained models
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.sav
+*.pb
+*.tflite
+
+# Reports / slides / videos
+*.pdf
+*.docx
+*.pptx
+*.mp4
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
