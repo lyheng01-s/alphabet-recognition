@@ -21,8 +21,3 @@ It supports early literacy learning through an educational handwriting recogniti
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-
-## Note
-
-This repository contains only the source code.  
-Datasets, trained model files, reports, slides, and videos are not included.
